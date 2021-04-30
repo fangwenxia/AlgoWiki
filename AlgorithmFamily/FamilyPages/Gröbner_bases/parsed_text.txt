@@ -1,0 +1,41 @@
+== Problem Description==
+In mathematics, and more specifically in computer algebra, computational algebraic geometry, and computational commutative algebra, a Gröbner basis is a particular kind of generating set of an ideal in a polynomial ring K[x1, ..,xn] over a field K. 
+
+== Bounds Chart ==
+[[File:Gröbner_basesBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Gröbner_basesStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

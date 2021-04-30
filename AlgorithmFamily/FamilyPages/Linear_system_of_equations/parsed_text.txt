@@ -1,0 +1,42 @@
+== Problem Description==
+a system of linear equations (or linear system) is a collection of one or
+ more linear equations involving the same set of variables.
+
+== Bounds Chart ==
+[[File:Linear_system_of_equationsBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Linear_system_of_equationsStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

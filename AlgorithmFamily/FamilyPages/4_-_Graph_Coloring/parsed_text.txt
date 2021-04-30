@@ -1,0 +1,43 @@
+== Problem Description==
+graph coloring is a special case of graph labeling; it is an assignment
+ of labels traditionally called "colors" to elements of a graph subject
+ to certain constraints. 
+
+== Bounds Chart ==
+[[File:4_-_Graph_ColoringBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:4_-_Graph_ColoringStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

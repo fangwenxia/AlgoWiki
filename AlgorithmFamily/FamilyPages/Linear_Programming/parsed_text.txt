@@ -1,0 +1,45 @@
+== Problem Description==
+Linear programming (LP; also called linear optimization) is a method to achieve the best
+ outcome (such as maximum profit or lowest cost) in a mathematical model
+ whose requirements are represented by linear relationships.
+ Linear programming is a special case of mathematical
+ programming (also known as mathematical optimization).
+
+== Bounds Chart ==
+[[File:Linear_ProgrammingBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Linear_ProgrammingStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

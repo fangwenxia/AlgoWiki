@@ -1,0 +1,45 @@
+== Problem Description==
+the shortest path problem is the problem of finding a path between two vertices 
+(or nodes) in a graph such that the sum of the weights of
+ its constituent edges is minimized.
+
+== Bounds Chart ==
+[[File:All-pairs_shortest_paths_
+(Undirected)BoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:All-pairs_shortest_paths_
+(Undirected)StepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

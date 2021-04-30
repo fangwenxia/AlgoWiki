@@ -1,0 +1,59 @@
+== Problem Description==
+Matrix chain multiplication (or Matrix Chain Ordering Problem; MCOP) is an
+ optimization problem that can be solved using dynamic programming.
+ Given a sequence of matrices; the goal is to find the most efficient
+ way to multiply these matrices.
+
+== Bounds Chart ==
+[[File:Matrix_chain_multiplicationBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Matrix_chain_multiplicationStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+| <nowiki>brute force (1940)</nowiki>
+|
+|-
+
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+| <nowiki>dynamic programming algorithm;  S. S. GODBOLE (1953)</nowiki>
+|
+|-
+
+| rowspan="1" | Quadratic
+| <nowiki>Heejo Lee; Jong Kim; Sungje Hong; and Sunggu Lee (1997)</nowiki>
+|
+|-
+
+| rowspan="1" | nlogn
+| <nowiki>T. C. Hut ; M. T. Shing (1982)</nowiki>
+|
+|-
+
+| rowspan="2" | Linear
+| <nowiki>Chandra 1975 (1975)</nowiki>
+|
+|-
+| <nowiki>Chin 1978 (1978)</nowiki>
+|
+|-
+
+| rowspan="3" | logn
+| <nowiki>Prakesh Ramanan (1996)</nowiki>
+|
+|-
+| <nowiki>Czumaj 1992 (1992)</nowiki>
+|
+|-
+| <nowiki>Czumaj 1996 (1996)</nowiki>
+|
+|-
+|}

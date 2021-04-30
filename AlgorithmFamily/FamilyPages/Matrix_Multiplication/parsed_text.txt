@@ -1,0 +1,43 @@
+== Problem Description==
+matrix multiplication or matrix product is a binary operation that produces a matrix
+ from two matrices with entries in a field; or; more generally; in a ring
+ or even a semiring. 
+
+== Bounds Chart ==
+[[File:Matrix_MultiplicationBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Matrix_MultiplicationStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

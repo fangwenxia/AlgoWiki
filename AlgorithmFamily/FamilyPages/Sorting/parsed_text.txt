@@ -1,0 +1,110 @@
+== Problem Description==
+A sorting algorithm is an algorithm that puts elements of a list in a certain order.
+
+== Bounds Chart ==
+[[File:SortingBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:SortingStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="8" | Quadratic
+| <nowiki>Naive sorting (1940)</nowiki>
+|
+|-
+| <nowiki>Selection Sort (1962)</nowiki>
+|
+|-
+| <nowiki>Bubble Sort (1956)</nowiki>
+|
+|-
+| <nowiki>Shell Sort; (Shell 1959) (1959)</nowiki>
+|
+|-
+| <nowiki>Shell Sort; (Frank & Lazarus 1960) (1960)</nowiki>
+|
+|-
+| <nowiki>Shell Sort; (Pratt 1971) (1971)</nowiki>
+|
+|-
+| <nowiki>Shell Sort; (Sedgewick; 1986) (1986)</nowiki>
+|
+|-
+| <nowiki>Odd Even Sort Parallel  Implementation (1972)</nowiki>
+|
+|-
+
+| rowspan="6" | nlogn
+| <nowiki>Merge Sort (1945)</nowiki>
+|
+|-
+| <nowiki>Tree sort (1962)</nowiki>
+|
+|-
+| <nowiki>Quick Sort (1961)</nowiki>
+|
+|-
+| <nowiki>Intro Sort (1997)</nowiki>
+|
+|-
+| <nowiki>Cube Sort  Parallel Implementation (1992)</nowiki>
+|
+|-
+| <nowiki>Heap Sort (1964)</nowiki>
+|
+|-
+
+| rowspan="11" | Linear
+| <nowiki>Counting Sort (1954)</nowiki>
+|
+|-
+| <nowiki>Tim Sort (2002)</nowiki>
+|
+|-
+| <nowiki>Flash Sort (1998)</nowiki>
+|
+|-
+| <nowiki>Bucket Sort (1940)</nowiki>
+|
+|-
+| <nowiki>Bitonic Merge Sort Parallel Implementation (1968)</nowiki>
+|
+|-
+| <nowiki>Bead Sort (2002)</nowiki>
+|
+|-
+| <nowiki>Burst Sort (2004)</nowiki>
+|
+|-
+| <nowiki>Radix Sort (1940)</nowiki>
+|
+|-
+| <nowiki>Thorup's Sorting Algorithm (2002)</nowiki>
+|
+|-
+| <nowiki>Spreadsort (2002)</nowiki>
+|
+|-
+| <nowiki>Spaghetti Sort Parallel Implementation (1984)</nowiki>
+|
+|-
+
+| rowspan="1" | logn
+|
+|
+|-|}

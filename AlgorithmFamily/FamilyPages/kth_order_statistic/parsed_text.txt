@@ -1,0 +1,46 @@
+== Problem Description==
+the kth order statistic of a statistical sample is equal to its kth-smallest value.
+
+== Bounds Chart ==
+[[File:kth_order_statisticBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:kth_order_statisticStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+| <nowiki>Naive Selection (1940)</nowiki>
+|
+|-
+
+| rowspan="2" | Linear
+| <nowiki>Hoare's Selection Algorithm (QuickSelect) (1961)</nowiki>
+|
+|-
+| <nowiki>Hashing (1940)</nowiki>
+|
+|-
+
+| rowspan="1" | logn
+|
+|
+|-|}

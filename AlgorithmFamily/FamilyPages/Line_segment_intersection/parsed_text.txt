@@ -1,0 +1,42 @@
+== Problem Description==
+the line segment intersection problem supplies a list of line segments in the
+ Euclidean plane and asks whether any two of them intersect (cross).
+
+== Bounds Chart ==
+[[File:Line_segment_intersectionBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Line_segment_intersectionStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

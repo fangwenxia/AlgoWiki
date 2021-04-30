@@ -1,0 +1,44 @@
+== Problem Description==
+A minimum spanning tree (MST) or minimum weight spanning tree is a subset
+ of the edges of a connected; edge-weighted undirected graph that
+ connects all the vertices together; without any cycles and
+ with the minimum possible total edge weight.
+
+== Bounds Chart ==
+[[File:Minimum_Spanning_TreeBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Minimum_Spanning_TreeStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

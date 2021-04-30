@@ -1,0 +1,45 @@
+== Problem Description==
+an optimal binary search tree (Optimal BST); sometimes called a weight-balanced
+ binary tree; is a binary search tree which provides the smallest possible search
+ time (or expected search time) for a given sequence of accesses
+ (or access probabilities). Optimal BSTs are generally divided
+ into two types: static and dynamic.
+
+== Bounds Chart ==
+[[File:Huffman_Encoding/Optimal_Binary_Search_TreesBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:Huffman_Encoding/Optimal_Binary_Search_TreesStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}

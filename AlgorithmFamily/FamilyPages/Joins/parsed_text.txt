@@ -1,0 +1,42 @@
+== Problem Description==
+An SQL join clause - corresponding to a join operation in relational algebra
+ - combines columns from one or more tables in a relational database.
+
+== Bounds Chart ==
+[[File:JoinsBoundsChart.png|350px]]
+
+== Step Chart ==
+[[File:JoinsStepChart.png|350px]]
+
+== Improvement Table ==
+{| class="wikitable" style="text-align:center;" width="100%" 
+ !width="20%" | Complexity Classes !! width="40%" | Algorithm Paper Links !! width="40%" | Lower Bounds Paper Links
+ |-
+| rowspan="1" | Exp/Factorial
+|
+|
+|-
+| rowspan="1" | Polynomial > 3
+|
+|
+|-
+| rowspan="1" | Cubic
+|
+|
+|-
+| rowspan="1" | Quadratic
+|
+|
+|-
+| rowspan="1" | nlogn
+|
+|
+|-
+| rowspan="1" | Linear
+|
+|
+|-
+| rowspan="1" | logn
+|
+|
+|-|}
